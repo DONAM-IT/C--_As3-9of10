@@ -1,0 +1,11 @@
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe.config
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\bin\Debug\FormsApp1.pdb
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Form1.resources
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Properties.Resources.resources
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Search.resources
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.GenerateResource.cache
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.CoreCompileInputs.cache
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.exe
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.pdb
+E:\HocTap\HocHanh\CN5\C#\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csprojAssemblyReference.cache
